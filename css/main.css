@@ -1,0 +1,41 @@
+/*------------------------------------------------------------------
+      | |                      (_)                          
+      | | __ _ _ __  _   _ _ __ _  __ ___      ____ _ _ __  
+  _   | |/ _` | '_ \| | | | '__| |/ _` \ \ /\ / / _` | '_ \ 
+ | |__| | (_| | | | | |_| | |  | | (_| |\ V  V / (_| | | | |
+  \____/ \__,_|_| |_|\__,_|_|  |_|\__,_| \_/\_/ \__,_|_| |_|
+                                                            
+                                                            
+/*====================*/
+
+
+/* CAR MESSAGE */
+.msg b { 
+	font-weight: 600; 
+	color: #7ac8e4; 
+	font-size: 18px;
+	top: 34px;
+	padding: 0 30px;
+}
+.msg b span { 
+	font-weight: 700; 
+	font-size: 30px;
+	line-height: 1.1;
+	text-transform: uppercase;
+}
+
+
+/* MEDIA QUARIES */
+
+/*===========================================*/
+/*	DESKTOP LAYOUT 
+/*===========================================*/
+@media only screen and (min-width: 1200px) {
+
+}
+@media only screen and (min-width: 980px) {
+
+}
+@media only screen and (min-width: 980px) and (max-width: 1199px) {
+
+}
